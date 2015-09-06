@@ -1,0 +1,3 @@
+* Clojure reading list
+** Sequential vs Collection
+   [[http://www.brainonfire.net/files/seqs-and-colls/main.html]]
